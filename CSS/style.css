@@ -1,0 +1,53 @@
+footer {
+    color: #c8c8c8;
+    text-align: center;
+}
+
+.end {
+    display: flex;
+    justify-content: space-around;
+}
+
+.para {
+    margin: 10px;
+}
+
+.shop{
+    text-align: center;
+    color: #7e8082;
+}
+
+.middle{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.contrary{
+    color: #66a1f4;
+}
+
+.lorem{
+    color: #a5a5a5;
+}
+
+.phone{
+    text-align: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.quote{
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    
+
+  }
